@@ -18,16 +18,21 @@ Nesse espaço compartilharei um pouco do meu processo de aprendizagem.
 
 ## 📚 Aprendendo
 - Fundamentos da Linguagem de Programação:
+  
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  
   --> Fundamentos da linguagem, estruturas de repetição e condicionais
   
 - Introdução aos fundamentos e controle de versão:
+  
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 - Introdução ao repositório remoto:
+  
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
 
-- Linguagem 
+- Linguagem
+  
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
   --> Fundamentos da linguagem, estruturas de controle, debugging, tratamento de exceções 
@@ -39,5 +44,4 @@ Nesse espaço compartilharei um pouco do meu processo de aprendizagem.
 
 ## 🔗 Meus contatos
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:brunafraga90@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548988776860)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-fraga-9b5ba0377/)

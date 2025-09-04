@@ -8,7 +8,7 @@ Desde então fiz uma Imersão da Alura focada em front end com JavaScript, um cu
 
 Atualmente estou finalizando o primeiro semestre de **Análise e Desenvolvimento de Sistemas** e também fazendo o curso do Professor Gustavo Guanabara de Java e POO.
 
-Amo estudar e aprender, o universo da técnologia me fascina, estou no início da minha jornada, mas muito animada e motivada.
+Amo estudar e aprender, o universo da tecnologia me fascina, estou no início da minha jornada, mas muito animada e motivada.
 
 Nesse espaço compartilharei um pouco do meu processo de aprendizagem.
 

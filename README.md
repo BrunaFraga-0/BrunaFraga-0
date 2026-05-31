@@ -2,7 +2,7 @@
 
 ## 🔷 Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas na Estácio de Sá (3º Semestre), em transição de carreira para a área de tecnologia, que tanto me fascina. Tenho grande interesse em engenharia de software, especialmente em desenvolvimento back-end.
+Estudante de Análise e Desenvolvimento de Sistemas na Estácio de Sá (3º Semestre), em transição de carreira para a área de tecnologia, que tanto me fascina. Tenho grande interesse em engenharia de software, especialmente em desenvolvimento web.
 
 Atualmente, divido minha rotina acadêmica com o Curso de Desenvolvimento Back-end com Node.js (SENAI / Programa SC Tec).
 

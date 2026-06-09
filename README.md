@@ -42,7 +42,7 @@ Continuar aprofundando meus conhecimentos em Typescript, ampliando para Bancos d
 ## 🔗 Meus contatos
    [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:brunafraga90@gmail.com)
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-c-fraga)
-   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://brunafraga-0.github.io/Site-Portifolio/)
+   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://brunafraga-0.github.io/Site-Portfolio/)
 
 ##
 Obrigada por visitar meu perfil!!!

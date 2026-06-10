@@ -1,48 +1,87 @@
 # 👋 **Olá, sou Bruna!**
 
-## 🔷 Sobre mim
+Sou estudante de Análise e Desenvolvimento de Sistemas (3º semestre na Estácio) e do curso de Desenvolvimento Back-End com Node.js no SENAI/SC (Programa SCTec), stack com a qual mais me identifico. Possuo forte interesse por toda a engrenagem dos sistemas, desde a arquitetura de software até a modelagem e estruturação de dados.
 
-Estudante de Análise e Desenvolvimento de Sistemas na Estácio de Sá (3º Semestre), em transição de carreira para a área de tecnologia, que tanto me fascina. Tenho grande interesse em engenharia de software, especialmente em desenvolvimento web.
+---
 
-Atualmente, divido minha rotina acadêmica com o Curso de Desenvolvimento Back-end com Node.js (SENAI / Programa SC Tec).
+## 🔷 Sobre mim & Transição de Carreira
 
-Sou engajada, detalhista e colaborativa, amo estudar e aprender, tenho curiosidade constante e muita motivação para crescer na área tecnológica. Estou no início da minha jornada, mas com muito foco e dedicação para me tornar uma desenvolvedora sólida e qualificada.
+Minha trajetória anterior combina **gestão de negócios e rotina laboratorial**, o que me trouxe uma sólida bagagem analítica, resiliência e foco na otimização de processos. No desenvolvimento Back-End, traduzo essa experiência em código limpo, atenção aos detalhes e fluxos bem definidos.
 
-Meu objetivo atual é conquistar uma oportunidade de estágio em desenvolvimento de software, onde eu possa aprender com especialistas, somar com a equipe e evoluir como desenvolvedora.
+Mantenho uma rotina altamente disciplinada de estudos focada em desenvolver habilidades para construir aplicações estruturadas. Meu objetivo atual é conquistar uma oportunidade de **Estágio em Desenvolvimento de Software / Back-End**, onde eu possa colaborar na resolução de projetos reais, aprender com times experientes e contribuir ativamente. Estou no início da minha jornada, mas com muita dedicação, foco e disponibilidade para aprender e me desenvolver como uma profissional qualificada.
 
-## 📚 Conhecimentos Atuais:
+---
 
-- Back-end: Conhecimento básico em Typescript e Node.js.
+## 🛠️ Tecnologias em Desenvolvimento
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### 💻 Back-End & Fundamentos
+* **Linguagens e Ambientes:** Node.js, TypeScript e JavaScript.
 
-- Front-end: Conhecimento básico em HTML semântico, CSS e JavaScript.
+    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  
+* **Arquitetura & Práticas:** Desenvolvimento em camadas (Controllers, Models, Services) e forte tipagem com Interfaces.
+* **Persistência de Dados:** Manipulação e persistência local (arquivos JSON) e consumo de APIs externas (Fetch assíncrono).
+* **Fundamentos de Computação:** Lógica de Programação, Algoritmos, Orientação a Objetos (POO), Estruturas de Dados e Arquitetura de Computadores.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💻 Front-End
+* **Linguagens:** Conhecimento básico em HTML5 semântico, CSS3.
 
-- Ferramentas & Metodologias: Git, GitHub e Metodologias Ágeis (Kanban/Trello).
+    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
+### 🧰 Versionamento & Ferramentas
+* **Git & GitHub:** Versionamento estruturado utilizando as práticas de **Git Flow** e commits semânticos.
 
-- Outros assuntos estudados, principalmente no curso ADS:
-     * Rede de Computadores
-     * Cloud Computing
-     * Segurança da Informação
-     * Arquitetura de Computadores
-     * IA
-     * Contato com outras linguagens como: C, Java e Python
+    ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  
+* **Ferramentas:** Postman (testes de requisições) e Trello (Organização ágil via Kanban).
 
-## 🎯 Próximos Passos
-Continuar aprofundando meus conhecimentos em Typescript, ampliando para Bancos de Dados Relacionais (PostgreSQL), frameworks (Express.js), testes automatizados (Jest/TDD), segurança em APIs Node.js e Integração Contínua (CI/CD), containers, práticas DevOps e Engenharia de Software.
+    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+    ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-## 🔗 Meus contatos
-   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:brunafraga90@gmail.com)
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-c-fraga)
+### ⏳ Noções básicas & Contato Acadêmico
+* Java, C, Redes de Computadores, Cloud Computing, Segurança da Informação, Engenharia de Software.
+
+    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+### 💾 Em Aprofundamento (Estudos Atuais)
+
+* Bancos de Dados Relacionais, Linguagem SQL, PostgreSQL e Modelagem de Dados.
+
+    ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 🎯 Próximos Passos (Meu Roadmap)
+
+* Frameworks Web (Express.js)
+* Testes automatizados (Jest / TDD)
+* Segurança em APIs Node.js
+* Integração Contínua (CI/CD) e práticas DevOps (Containers/Docker)
+
+---
+
+## 🔗 Conecte-se Comigo
+
+Vamos conversar sobre tecnologia, arquitetura de sistemas ou oportunidades de estágio? ☕
+
+* **E-mail:**
+  
+    [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:brunafraga90@gmail.com)
+   
+* **LinkedIn:**
+  
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-c-fraga)
+
+* **Portfólio Web:**
+  
    [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://brunafraga-0.github.io/Site-Portfolio/)
 
-##
-Obrigada por visitar meu perfil!!!
+---
+
+Obrigada por visitar o meu perfil! 🚀
+

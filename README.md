@@ -21,8 +21,10 @@ Mantenho uma rotina altamente disciplinada de estudos focada em desenvolver habi
     ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
-* **Arquitetura & Práticas:** Desenvolvimento em camadas (Controllers, Models, Services) e forte tipagem com Interfaces.
-* **Persistência de Dados:** Manipulação e persistência local (arquivos JSON) e consumo de APIs externas (Fetch assíncrono).
+* **Arquitetura & Práticas:** Desenvolvimento em camadas e organização de responsabilidades com Controllers, Services, Models, Entities e DTOs; tipagem com TypeScript e uso de Interfaces.
+
+* **APIs & Persistência de Dados:** Desenvolvimento e consumo de APIs REST, operações CRUD, requisições assíncronas e persistência de dados com PostgreSQL, TypeORM e arquivos JSON.
+
 * **Fundamentos de Computação:** Lógica de Programação, Algoritmos, Orientação a Objetos (POO), Estruturas de Dados e Arquitetura de Computadores.
 
 ### 💻 Front-End
@@ -31,16 +33,24 @@ Mantenho uma rotina altamente disciplinada de estudos focada em desenvolver habi
     ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### 💾 Banco de Dados
+
+* Bancos de Dados Relacionais, Linguagem SQL, PostgreSQL e Modelagem de Dados.
+
+    ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ### 🧰 Versionamento & Ferramentas
 * **Git & GitHub:** Versionamento estruturado utilizando as práticas de **Git Flow** e commits semânticos.
 
     ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   
-* **Ferramentas:** Postman (testes de requisições) e Trello (Organização ágil via Kanban).
+* **Ferramentas:** Postman e ThunderClient (testes de requisições), Trello e Jira (Gerenciamento de tarefas via Kanban).
 
     ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Thunder Client](https://img.shields.io/badge/Thunder_Client-7B42BC?style=for-the-badge)
     ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### ⏳ Noções básicas & Contato Acadêmico
 * Java, C, Redes de Computadores, Cloud Computing, Segurança da Informação, Engenharia de Software.
@@ -50,15 +60,15 @@ Mantenho uma rotina altamente disciplinada de estudos focada em desenvolver habi
 
 ### 💾 Em Aprofundamento (Estudos Atuais)
 
-* Bancos de Dados Relacionais, Linguagem SQL, PostgreSQL e Modelagem de Dados.
+* API REST e Express
 
-    ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+  
 ---
 
 ## 🎯 Próximos Passos (Meu Roadmap)
 
-* Frameworks Web (Express.js)
 * Testes automatizados (Jest / TDD)
 * Segurança em APIs Node.js
 * Integração Contínua (CI/CD) e práticas DevOps (Containers/Docker)
